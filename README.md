@@ -1,4 +1,4 @@
-#Welcome to Flight services
+# Welcome to Flight services
 
 ## Project Setup
 -clone the project on your local
@@ -18,3 +18,4 @@
   }
 }
 ``` 
+-once you've added your db cofig as listed above, go to the src folder from your terminal and execute  `npx sequelize db create`
